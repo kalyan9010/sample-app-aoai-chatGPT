@@ -1,6 +1,7 @@
 .venv
 frontend/node_modules
 .env
+.env.sample
 # static
 .azure/
 __pycache__/
